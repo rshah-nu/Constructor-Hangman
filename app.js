@@ -5,7 +5,7 @@ inquirer
         {
             type: "input",
             message: "Guess a letter: ",
-            name: "userGuess"
+            name: "userGuess",
         }
     ])
     .then(function(inquirerResponse){

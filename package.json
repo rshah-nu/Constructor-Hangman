@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/rshah-nu/Constructor-Hangman#readme",
   "dependencies": {
-    "inquirer": "^4.0.0",
-    "random-word": "^2.0.0"
+    "inquirer": "^4.0.1",
+    "random-word": "^2.0.0",
+    "random-words": "0.0.1"
   }
 }
